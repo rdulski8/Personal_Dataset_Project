@@ -22,3 +22,4 @@ I used the Scatter Plot matrix to see correlation amongst the different variable
 
 The Histogram represents the highest MLB averages from the last 5 years and the frequency that it occured. 
 
+![Playoffs vs Averages scatter](https://raw.githubusercontent.com/rdulski8/Personal_Dataset_Project/master/download%20(2).png)
