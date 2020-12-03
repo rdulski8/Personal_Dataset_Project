@@ -1,7 +1,7 @@
 # Personal_Dataset_Project MLB Batting Averages
 Data 115 personal repository for data project
 # Goal
-I wanted to see if there was a strong correlation, if any, between a player's batting average on the year, and wheter or not that player made the playoffs.
+I wanted to see if there was a strong correlation, if any, between a player's batting average on the year, and wheter or not that player made the playoffs. 
 # Processing 
 The range of data I used were the top 10 batting averages from the each of the baseball seasons betweeen 2015-2020. 
 I used data from ESPN and MLB baseball stat books to input players, batting average, the season year, and playoffs (1-did make playoffs,0-did not make playoffs).
