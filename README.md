@@ -26,5 +26,7 @@ I used the Scatter Plot matrix to see correlation amongst the different variable
 
 depicts correlation between one's batting average and whether or not they made the playoffs with their batting average.
 
+![Linear Regression Model](https://raw.githubusercontent.com/rdulski8/Personal_Dataset_Project/master/Linear%20regression%20.png)
+
 # Findings
 
