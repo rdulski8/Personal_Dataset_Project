@@ -36,7 +36,10 @@ After simple analysis of the data, there is a very low, if not any correlation b
 
 # Sources
 https://www.mlb.com/stats/
+
 https://www.espn.com/mlb/stats
 
 I used the stat books from both Major League Baseball and ESPN to recieve batting average, year, player, and playoff data. 
+
 I restricted the data from the seasons of 2015-2020. 
+
