@@ -28,5 +28,15 @@ depicts correlation between one's batting average and whether or not they made t
 
 ![Linear Regression Model](https://raw.githubusercontent.com/rdulski8/Personal_Dataset_Project/master/Linear%20regression%20.png)
 
+I used a Linear Regression Model to visualize the correlation between the player's batting average variable and playoff birth variable. 
+
 # Findings
 
+After simple analysis of the data, there is a very low, if not any correlation between whether a player's batting average results in their team's birth into the playoffs. This is an interesting idea in that MLB front offices should potentially look into different ways of spending when trying to build a playoff team. 
+
+# Sources
+https://www.mlb.com/stats/
+https://www.espn.com/mlb/stats
+
+I used the stat books from both Major League Baseball and ESPN to recieve batting average, year, player, and playoff data. 
+I restricted the data from the seasons of 2015-2020. 
