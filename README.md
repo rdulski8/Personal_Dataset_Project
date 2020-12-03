@@ -14,12 +14,17 @@ Using python, I was able to produce a correlation table using the batting averag
 # My visualizations 
 ![MY jupyter notebook](https://github.com/rdulski8/Personal_Dataset_Project/blob/master/Personal%20Dataset.ipynb)
 
-![Scatter plot matrix](https://raw.githubusercontent.com/rdulski8/Personal_Dataset_Project/master/Scatter%20Matrix%20.png)
-
-I used the Scatter Plot matrix to see correlation amongst the different variables. depicts correlation between one's batting average and whether or not they made the playoffs with their batting average.
-
 ![Batting Averages](https://raw.githubusercontent.com/rdulski8/Personal_Dataset_Project/master/download.png)
 
-The Histogram represents the highest MLB averages from the last 5 years and the frequency that it occured. 
+The Histogram represents the highest MLB averages from the last 5 years and the frequency that it occured.
+
+![Scatter plot matrix](https://raw.githubusercontent.com/rdulski8/Personal_Dataset_Project/master/Scatter%20Matrix%20.png)
+
+I used the Scatter Plot matrix to see correlation amongst the different variables.
 
 ![Playoffs vs Averages scatter](https://raw.githubusercontent.com/rdulski8/Personal_Dataset_Project/master/download%20(2).png)
+
+depicts correlation between one's batting average and whether or not they made the playoffs with their batting average.
+
+# Findings
+
